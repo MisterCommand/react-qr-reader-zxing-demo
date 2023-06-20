@@ -1,8 +1,10 @@
 This is a React QR code scanner demo built using [`@zxing/library`](https://www.npmjs.com/package/@zxing/library) and [`@zxing/browser`](https://www.npmjs.com/package/@zxing/browser).
 
+Check out [the source code](https://github.com/MisterCommand/react-qr-reader-zxing-demo/blob/main/app/page.tsx) of this demo.
+
 ## Getting Started
 
-Online demo available at 
+Online demo available at [https://mistercommand.github.io/react-qr-reader-zxing-demo/](https://mistercommand.github.io/react-qr-reader-zxing-demo/)
 or
 Run the demo locally by running
 
@@ -11,7 +13,7 @@ npm install
 npm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+And open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 ## Learn More
 
