@@ -20,7 +20,11 @@ And open [http://localhost:3000](http://localhost:3000) with your browser to see
 You may also want to check out
 
 [@zxing/browser](https://www.npmjs.com/package/@zxing/browser)
+
 [@zxing/library](https://www.npmjs.com/package/@zxing/library)
+
 [@zxing/library qr-camera example](https://zxing-js.github.io/library/examples/qr-camera/)
+
 [react-zxing (not used in this demo)](https://www.npmjs.com/package/react-zxing)
+
 [Zxing Scanner React by odahcam with React 16](https://stackblitz.com/edit/zxing-scanner-react?file=Hello.js)
