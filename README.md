@@ -6,7 +6,7 @@ Check out [the source code](https://github.com/MisterCommand/react-qr-reader-zxi
 
 Online demo available at [https://mistercommand.github.io/react-qr-reader-zxing-demo/](https://mistercommand.github.io/react-qr-reader-zxing-demo/)
 or
-Run the demo locally by running
+run the demo locally by running
 
 ```bash
 npm install
